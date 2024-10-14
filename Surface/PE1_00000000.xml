@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20200203-20200217</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.279999971     </MEAN_OBS>
+ <STDV_OBS>  0.653212547     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>DEF</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.239341065     </MEAN>
+ <STDV>   1.27553819E-20 </STDV>
+ <BIAS>  0.636523604     </BIAS>
+ <RMSE>  0.597230971     </RMSE>
+ <CORR>  -5.57521777E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>  0.647753179     </BIAS>
+ <RMSE>  0.589093208     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.149162009     </MEAN_OBS>
+ <STDV_OBS>  0.556917131     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>DEF</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>  0.172211871     </MEAN>
+ <STDV>   6.21580657E+29 </STDV>
+ <BIAS>  0.472794265     </BIAS>
+ <RMSE>  0.621684611     </RMSE>
+ <CORR>   6.10436023E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.484196901     </BIAS>
+ <RMSE>  0.608601928     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113128446     </MEAN_OBS>
+ <STDV_OBS>  0.456886500     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>DEF</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>  0.110048667     </MEAN>
+ <STDV>  -5.35307863E+13 </STDV>
+ <BIAS>  0.457374007     </BIAS>
+ <RMSE>  0.408892751     </RMSE>
+ <CORR>  -5.29757498E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.453581691     </BIAS>
+ <RMSE>  0.414001554     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125555590     </MEAN_OBS>
+ <STDV_OBS>  0.495345324     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>DEF</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.104736894     </MEAN>
+ <STDV>  -5.29751291E+13 </STDV>
+ <BIAS>  0.501171112     </BIAS>
+ <RMSE>  0.438075870     </RMSE>
+ <CORR>   6.26146203E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.503222108     </BIAS>
+ <RMSE>  0.435295790     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>

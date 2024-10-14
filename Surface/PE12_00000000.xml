@@ -1,0 +1,3632 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>12h Precipitation</VAR>
+<UNIT>mm/12h</UNIT>
+<PERIOD>20200203-20200217</PERIOD>
+ <STATION>
+ <MEAN_OBS>   2.16000009     </MEAN_OBS>
+ <STDV_OBS>   2.00390220     </STDV_OBS>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.29579139     </MEAN>
+ <STDV>   1.57828582E-38 </STDV>
+ <BIAS>   2.14156485     </BIAS>
+ <RMSE>  0.505802929     </RMSE>
+ <CORR>   6.26363810E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   7.29656110E-42 </STDV>
+ <BIAS>   2.11740923     </BIAS>
+ <RMSE>  0.529320955     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.02469134     </MEAN_OBS>
+ <STDV_OBS>   4.06721210     </STDV_OBS>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   3.35920954     </MEAN>
+ <STDV>  -5.52048714E+13 </STDV>
+ <BIAS>   2.09512758     </BIAS>
+ <RMSE>  0.857850075     </RMSE>
+ <CORR>  -5.28387681E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3023 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          81 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.10269785     </BIAS>
+ <RMSE>  0.855436027     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.69111109     </MEAN_OBS>
+ <STDV_OBS>   4.06396914     </STDV_OBS>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.46429324     </MEAN>
+ <STDV>   6.26363810E+29 </STDV>
+ <BIAS>   3.29951096     </BIAS>
+ <RMSE>  0.628600657     </RMSE>
+ <CORR>  -5.83670579E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3026 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.29112959     </BIAS>
+ <RMSE>  0.626677573     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.20666647     </MEAN_OBS>
+ <STDV_OBS>   7.18535614     </STDV_OBS>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   7.11757946     </MEAN>
+ <STDV>  -5.28387681E+13 </STDV>
+ <BIAS>   4.59639502     </BIAS>
+ <RMSE>  0.782379568     </RMSE>
+ <CORR>   5.97641357E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3031 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.56748438     </BIAS>
+ <RMSE>  0.781944275     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.22000003     </MEAN_OBS>
+ <STDV_OBS>   4.16761923     </STDV_OBS>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.27850270     </MEAN>
+ <STDV>  -5.83670579E+13 </STDV>
+ <BIAS>   3.53895926     </BIAS>
+ <RMSE>  0.616692305     </RMSE>
+ <CORR>   6.21570532E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3034 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.64575338     </BIAS>
+ <RMSE>  0.605813682     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.97111082     </MEAN_OBS>
+ <STDV_OBS>   4.32100821     </STDV_OBS>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.65562057     </MEAN>
+ <STDV>   5.79526359E+29 </STDV>
+ <BIAS>   3.16075754     </BIAS>
+ <RMSE>  0.817960024     </RMSE>
+ <CORR>   5.84779746E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3044 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.17099071     </BIAS>
+ <RMSE>  0.816910863     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.24666691     </MEAN_OBS>
+ <STDV_OBS>   10.2563591     </STDV_OBS>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   10.4130898     </MEAN>
+ <STDV>  -5.57519429E+13 </STDV>
+ <BIAS>   4.97481966     </BIAS>
+ <RMSE>  0.878079712     </RMSE>
+ <CORR>   1.32669325E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3047 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.88778019     </BIAS>
+ <RMSE>  0.880103528     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.18444467     </MEAN_OBS>
+ <STDV_OBS>   2.05764818     </STDV_OBS>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.60678065     </MEAN>
+ <STDV>   5.84779746E+29 </STDV>
+ <BIAS>   2.41980910     </BIAS>
+ <RMSE>  0.598642766     </RMSE>
+ <CORR>  -5.52048714E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3062 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.41998696     </BIAS>
+ <RMSE>  0.594476342     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.71777773     </MEAN_OBS>
+ <STDV_OBS>   5.33605862     </STDV_OBS>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.04601955     </MEAN>
+ <STDV>   1.32669325E-20 </STDV>
+ <BIAS>   4.99338722     </BIAS>
+ <RMSE>  0.661489785     </RMSE>
+ <CORR>   6.26363810E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3063 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   4.97932339     </BIAS>
+ <RMSE>  0.663216293     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.59058821     </MEAN_OBS>
+ <STDV_OBS>   2.35617971     </STDV_OBS>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   1.51230812     </MEAN>
+ <STDV>   6.26363810E+29 </STDV>
+ <BIAS>   2.25140786     </BIAS>
+ <RMSE>  0.507127702     </RMSE>
+ <CORR>  -5.35306562E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3066 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.21837091     </BIAS>
+ <RMSE>  0.510966301     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.23777735     </MEAN_OBS>
+ <STDV_OBS>   1.60239542     </STDV_OBS>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.04615676     </MEAN>
+ <STDV>  -5.28387681E+13 </STDV>
+ <BIAS>   1.77061558     </BIAS>
+ <RMSE>  0.609904468     </RMSE>
+ <CORR>   5.97641357E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3068 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.75399411     </BIAS>
+ <RMSE>  0.614654720     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.01333320     </MEAN_OBS>
+ <STDV_OBS>   2.75702715     </STDV_OBS>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.49739897     </MEAN>
+ <STDV>   5.97641357E+29 </STDV>
+ <BIAS>   2.35305977     </BIAS>
+ <RMSE>  0.529693246     </RMSE>
+ <CORR>  -5.83670579E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3075 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.35223675     </BIAS>
+ <RMSE>  0.514492273     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.83333325     </MEAN_OBS>
+ <STDV_OBS>   3.19605374     </STDV_OBS>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.04394054     </MEAN>
+ <STDV>   6.21570532E+29 </STDV>
+ <BIAS>   1.80106652     </BIAS>
+ <RMSE>  0.882794619     </RMSE>
+ <CORR>  -5.57519429E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3080 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.81105781     </BIAS>
+ <RMSE>  0.881744981     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.33111095     </MEAN_OBS>
+ <STDV_OBS>   3.89231682     </STDV_OBS>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.79565585     </MEAN>
+ <STDV>  -5.83670579E+13 </STDV>
+ <BIAS>   1.16704631     </BIAS>
+ <RMSE>  0.964158475     </RMSE>
+ <CORR>   5.84779746E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3088 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.15266907     </BIAS>
+ <RMSE>  0.965494156     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.755555630     </MEAN_OBS>
+ <STDV_OBS>   2.14706922     </STDV_OBS>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.04126358     </MEAN>
+ <STDV>  -5.57519429E+13 </STDV>
+ <BIAS>  0.963578939     </BIAS>
+ <RMSE>  0.895588219     </RMSE>
+ <CORR>   1.32669325E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.952706933     </BIAS>
+ <RMSE>  0.896423638     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.66000009     </MEAN_OBS>
+ <STDV_OBS>   3.47235274     </STDV_OBS>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.04284096     </MEAN>
+ <STDV>   1.32669325E-20 </STDV>
+ <BIAS>   3.10834789     </BIAS>
+ <RMSE>  0.563829124     </RMSE>
+ <CORR>   6.26363810E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3100 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   3.09852457     </BIAS>
+ <RMSE>  0.562531948     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.06444430     </MEAN_OBS>
+ <STDV_OBS>   5.35598850     </STDV_OBS>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.35379267     </MEAN>
+ <STDV>  -5.35307905E+13 </STDV>
+ <BIAS>   3.64920902     </BIAS>
+ <RMSE>  0.753291726     </RMSE>
+ <CORR>  -5.28387681E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3105 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.53048539     </BIAS>
+ <RMSE>  0.757596016     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.44000006     </MEAN_OBS>
+ <STDV_OBS>   5.34726143     </STDV_OBS>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.31626701     </MEAN>
+ <STDV>   6.26363810E+29 </STDV>
+ <BIAS>   2.72113490     </BIAS>
+ <RMSE>  0.861502886     </RMSE>
+ <CORR>   6.10485589E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3111 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.68184423     </BIAS>
+ <RMSE>  0.864749372     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.76888859     </MEAN_OBS>
+ <STDV_OBS>   4.54801941     </STDV_OBS>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.75368547     </MEAN>
+ <STDV>  -5.28387681E+13 </STDV>
+ <BIAS>   2.57292962     </BIAS>
+ <RMSE>  0.840015888     </RMSE>
+ <CORR>   5.97641357E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3132 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.65343046     </BIAS>
+ <RMSE>  0.839584053     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60222292     </MEAN_OBS>
+ <STDV_OBS>   6.69562769     </STDV_OBS>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   5.94594002     </MEAN>
+ <STDV>   6.10485589E+29 </STDV>
+ <BIAS>   4.63121271     </BIAS>
+ <RMSE>  0.764993727     </RMSE>
+ <CORR>   6.21570532E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3134 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.58589602     </BIAS>
+ <RMSE>  0.763582647     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.19999981     </MEAN_OBS>
+ <STDV_OBS>   5.61886072     </STDV_OBS>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.03060436     </MEAN>
+ <STDV>   5.97641357E+29 </STDV>
+ <BIAS>   3.37833261     </BIAS>
+ <RMSE>  0.817307711     </RMSE>
+ <CORR>  -5.83670579E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3136 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.09635687     </BIAS>
+ <RMSE>  0.838409543     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.45777798     </MEAN_OBS>
+ <STDV_OBS>   6.23191214     </STDV_OBS>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.40204430     </MEAN>
+ <STDV>   6.21570532E+29 </STDV>
+ <BIAS>   2.93448782     </BIAS>
+ <RMSE>  0.881933212     </RMSE>
+ <CORR>  -5.57519429E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3144 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.92064214     </BIAS>
+ <RMSE>  0.882400811     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.82000017     </MEAN_OBS>
+ <STDV_OBS>   3.65806603     </STDV_OBS>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.45483971     </MEAN>
+ <STDV>  -5.57519429E+13 </STDV>
+ <BIAS>   2.57648301     </BIAS>
+ <RMSE>  0.905833423     </RMSE>
+ <CORR>   1.32669325E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3153 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.51436615     </BIAS>
+ <RMSE>  0.911412120     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.93563199     </MEAN_OBS>
+ <STDV_OBS>   6.10476065     </STDV_OBS>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   4.75096655     </MEAN>
+ <STDV>   5.84779746E+29 </STDV>
+ <BIAS>   3.88637590     </BIAS>
+ <RMSE>  0.799843669     </RMSE>
+ <CORR>  -5.35307905E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3155 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.72686529     </BIAS>
+ <RMSE>  0.811778307     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.24222207     </MEAN_OBS>
+ <STDV_OBS>   3.29993653     </STDV_OBS>
+ <EXP>
+ <ID>        3158 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.26641726     </MEAN>
+ <STDV>   1.32669325E-20 </STDV>
+ <BIAS>   1.81754684     </BIAS>
+ <RMSE>  0.875053704     </RMSE>
+ <CORR>   6.26363810E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3158 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.81193924     </BIAS>
+ <RMSE>  0.875875652     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.74888992     </MEAN_OBS>
+ <STDV_OBS>   13.2301226     </STDV_OBS>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   8.39396667     </MEAN>
+ <STDV>  -5.35307905E+13 </STDV>
+ <BIAS>   4.47389555     </BIAS>
+ <RMSE>  0.951660395     </RMSE>
+ <CORR>  -5.28387681E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3162 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.47157335     </BIAS>
+ <RMSE>  0.950851798     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.34666681     </MEAN_OBS>
+ <STDV_OBS>   5.49801493     </STDV_OBS>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.81648326     </MEAN>
+ <STDV>   6.21537136E+29 </STDV>
+ <BIAS>   5.43247986     </BIAS>
+ <RMSE>  0.666537285     </RMSE>
+ <CORR>   6.10485589E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3166 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.47107553     </BIAS>
+ <RMSE>  0.660839736     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.28666663     </MEAN_OBS>
+ <STDV_OBS>   4.38947201     </STDV_OBS>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.24404240     </MEAN>
+ <STDV>  -5.28387681E+13 </STDV>
+ <BIAS>   1.80347109     </BIAS>
+ <RMSE>  0.915681660     </RMSE>
+ <CORR>   6.10529111E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3171 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78973782     </BIAS>
+ <RMSE>  0.916856229     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.39555538     </MEAN_OBS>
+ <STDV_OBS>   3.62392640     </STDV_OBS>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.85361540     </MEAN>
+ <STDV>   6.10485589E+29 </STDV>
+ <BIAS>   2.01326180     </BIAS>
+ <RMSE>  0.833873868     </RMSE>
+ <CORR>   6.21570532E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3204 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.00066161     </BIAS>
+ <RMSE>  0.832481325     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.05777788     </MEAN_OBS>
+ <STDV_OBS>   3.85327291     </STDV_OBS>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.25216460     </MEAN>
+ <STDV>  -5.29751291E+13 </STDV>
+ <BIAS>   1.75947583     </BIAS>
+ <RMSE>  0.903801501     </RMSE>
+ <CORR>  -5.83670579E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3210 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65673721     </BIAS>
+ <RMSE>  0.914154410     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.87777853     </MEAN_OBS>
+ <STDV_OBS>   11.8853865     </STDV_OBS>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   6.06318521     </MEAN>
+ <STDV>   6.21570532E+29 </STDV>
+ <BIAS>   3.76157784     </BIAS>
+ <RMSE>  0.975302935     </RMSE>
+ <CORR>   6.10527902E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3212 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.82265949     </BIAS>
+ <RMSE>  0.975346267     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45555544     </MEAN_OBS>
+ <STDV_OBS>   4.07048988     </STDV_OBS>
+ <EXP>
+ <ID>        3214 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.14007950     </MEAN>
+ <STDV>  -5.83670579E+13 </STDV>
+ <BIAS>   2.40019107     </BIAS>
+ <RMSE>  0.884951115     </RMSE>
+ <CORR>   5.84778575E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3214 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.34694886     </BIAS>
+ <RMSE>  0.891776443     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.36666679     </MEAN_OBS>
+ <STDV_OBS>   4.64206886     </STDV_OBS>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.73309255     </MEAN>
+ <STDV>   6.10527902E+29 </STDV>
+ <BIAS>   1.70183027     </BIAS>
+ <RMSE>  0.931070209     </RMSE>
+ <CORR>   1.32669325E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3220 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65822589     </BIAS>
+ <RMSE>  0.933259845     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.59777832     </MEAN_OBS>
+ <STDV_OBS>   7.73811436     </STDV_OBS>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.72479820     </MEAN>
+ <STDV>   6.21527011E+29 </STDV>
+ <BIAS>   2.97561741     </BIAS>
+ <RMSE>  0.933860838     </RMSE>
+ <CORR>  -5.35307905E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3224 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.03120804     </BIAS>
+ <RMSE>  0.931196988     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.79999733     </MEAN_OBS>
+ <STDV_OBS>   22.7199421     </STDV_OBS>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   10.3585606     </MEAN>
+ <STDV>   1.32669325E-20 </STDV>
+ <BIAS>   5.58206606     </BIAS>
+ <RMSE>  0.980750859     </RMSE>
+ <CORR>   5.70332932E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3225 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   5.40559578     </BIAS>
+ <RMSE>  0.980865896     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.82222295     </MEAN_OBS>
+ <STDV_OBS>   10.3962936     </STDV_OBS>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.75713158     </MEAN>
+ <STDV>  -5.35307905E+13 </STDV>
+ <BIAS>   3.31526232     </BIAS>
+ <RMSE>  0.961230993     </RMSE>
+ <CORR>  -5.28387681E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3226 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.22856712     </BIAS>
+ <RMSE>  0.961394012     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.79333496     </MEAN_OBS>
+ <STDV_OBS>   8.50105286     </STDV_OBS>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   5.11170340     </MEAN>
+ <STDV>  -5.28387681E+13 </STDV>
+ <BIAS>   2.53282213     </BIAS>
+ <RMSE>  0.955016077     </RMSE>
+ <CORR>  -5.29751291E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3230 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.65174985     </BIAS>
+ <RMSE>  0.950474024     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.70666695     </MEAN_OBS>
+ <STDV_OBS>   3.05941749     </STDV_OBS>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.17794132     </MEAN>
+ <STDV>   6.10485589E+29 </STDV>
+ <BIAS>   1.58018374     </BIAS>
+ <RMSE>  0.866578877     </RMSE>
+ <CORR>   6.21577068E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3238 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55923033     </BIAS>
+ <RMSE>  0.867138624     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.52000010     </MEAN_OBS>
+ <STDV_OBS>   3.01781368     </STDV_OBS>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.67546606     </MEAN>
+ <STDV>  -5.29751291E+13 </STDV>
+ <BIAS>   1.30364811     </BIAS>
+ <RMSE>  0.907160878     </RMSE>
+ <CORR>  -5.83670579E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3240 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.29837799     </BIAS>
+ <RMSE>  0.905726552     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.37333298     </MEAN_OBS>
+ <STDV_OBS>   6.09560633     </STDV_OBS>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.92639780     </MEAN>
+ <STDV>   6.21577068E+29 </STDV>
+ <BIAS>   2.57440424     </BIAS>
+ <RMSE>  0.909083247     </RMSE>
+ <CORR>   6.10527902E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3257 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.57327890     </BIAS>
+ <RMSE>  0.907401681     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.16444445     </MEAN_OBS>
+ <STDV_OBS>   5.94484901     </STDV_OBS>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.64109349     </MEAN>
+ <STDV>   1.32669132E-20 </STDV>
+ <BIAS>   2.60754776     </BIAS>
+ <RMSE>  0.904238462     </RMSE>
+ <CORR>   6.21527011E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3265 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2.56047058     </BIAS>
+ <RMSE>  0.907010674     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.50222194     </MEAN_OBS>
+ <STDV_OBS>   4.36916637     </STDV_OBS>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.01647139     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   1.94766176     </BIAS>
+ <RMSE>  0.894621015     </RMSE>
+ <CORR>  -5.35307905E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06548166     </BIAS>
+ <RMSE>  0.884118974     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.56222177     </MEAN_OBS>
+ <STDV_OBS>   6.34499598     </STDV_OBS>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.86953092     </MEAN>
+ <STDV>  -5.52048379E+13 </STDV>
+ <BIAS>   2.50987649     </BIAS>
+ <RMSE>  0.915517688     </RMSE>
+ <CORR>   5.97641357E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.58405423     </BIAS>
+ <RMSE>  0.912297785     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.25333333     </MEAN_OBS>
+ <STDV_OBS>   4.52921534     </STDV_OBS>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.14996600     </MEAN>
+ <STDV>  -5.35307905E+13 </STDV>
+ <BIAS>   2.87110329     </BIAS>
+ <RMSE>  0.844651878     </RMSE>
+ <CORR>  -5.28387681E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.81718087     </BIAS>
+ <RMSE>  0.850979269     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86666667     </MEAN_OBS>
+ <STDV_OBS>   3.50704026     </STDV_OBS>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.94797695     </MEAN>
+ <STDV>   5.97641357E+29 </STDV>
+ <BIAS>   2.11326766     </BIAS>
+ <RMSE>  0.834138453     </RMSE>
+ <CORR>   5.79526359E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3301 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.09945416     </BIAS>
+ <RMSE>  0.836334229     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.71999955     </MEAN_OBS>
+ <STDV_OBS>   2.94746923     </STDV_OBS>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.67882168     </MEAN>
+ <STDV>  -5.28387681E+13 </STDV>
+ <BIAS>   2.23022842     </BIAS>
+ <RMSE>  0.811166704     </RMSE>
+ <CORR>  -5.29751291E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3302 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.22824526     </BIAS>
+ <RMSE>  0.811795831     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.31999969     </MEAN_OBS>
+ <STDV_OBS>   8.23060036     </STDV_OBS>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   4.17344141     </MEAN>
+ <STDV>   1.27553827E-20 </STDV>
+ <BIAS>   4.29672337     </BIAS>
+ <RMSE>  0.950865388     </RMSE>
+ <CORR>   6.21570532E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3305 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   4.27240467     </BIAS>
+ <RMSE>  0.949845016     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.27200079     </MEAN_OBS>
+ <STDV_OBS>   5.68765259     </STDV_OBS>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   2.90657210     </MEAN>
+ <STDV>  -5.29751291E+13 </STDV>
+ <BIAS>   4.27083349     </BIAS>
+ <RMSE>  0.937094271     </RMSE>
+ <CORR>   6.10485589E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3313 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.41053677     </BIAS>
+ <RMSE>  0.934615672     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.85999966     </MEAN_OBS>
+ <STDV_OBS>   2.80935049     </STDV_OBS>
+ <EXP>
+ <ID>        3316 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.50160480     </MEAN>
+ <STDV>   6.21570532E+29 </STDV>
+ <BIAS>   2.60469294     </BIAS>
+ <RMSE>  0.842067242     </RMSE>
+ <CORR>   6.10527902E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3316 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.65814304     </BIAS>
+ <RMSE>  0.832785070     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.76222181     </MEAN_OBS>
+ <STDV_OBS>   3.77800131     </STDV_OBS>
+ <EXP>
+ <ID>        3318 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.87668765     </MEAN>
+ <STDV>   6.10485589E+29 </STDV>
+ <BIAS>   3.27525949     </BIAS>
+ <RMSE>  0.919403017     </RMSE>
+ <CORR>   5.84778575E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3318 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.27408671     </BIAS>
+ <RMSE>  0.919389606     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45555592     </MEAN_OBS>
+ <STDV_OBS>   3.60608053     </STDV_OBS>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.92035592     </MEAN>
+ <STDV>   6.10527902E+29 </STDV>
+ <BIAS>   2.42994118     </BIAS>
+ <RMSE>  0.850535870     </RMSE>
+ <CORR>  -5.52048379E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3321 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.47218513     </BIAS>
+ <RMSE>  0.844574034     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.40444469     </MEAN_OBS>
+ <STDV_OBS>   4.50768566     </STDV_OBS>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.89702320     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   2.85242724     </BIAS>
+ <RMSE>  0.801904023     </RMSE>
+ <CORR>  -5.83671921E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3330 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.82469678     </BIAS>
+ <RMSE>  0.805569530     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.62444592     </MEAN_OBS>
+ <STDV_OBS>   10.0211096     </STDV_OBS>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   5.50269127     </MEAN>
+ <STDV>  -5.52048379E+13 </STDV>
+ <BIAS>   3.79493308     </BIAS>
+ <RMSE>  0.940717518     </RMSE>
+ <CORR>   5.97641357E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3344 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.82059622     </BIAS>
+ <RMSE>  0.940055609     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.26444483     </MEAN_OBS>
+ <STDV_OBS>   8.28720665     </STDV_OBS>
+ <EXP>
+ <ID>        3346 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.90159130     </MEAN>
+ <STDV>  -5.83671921E+13 </STDV>
+ <BIAS>   3.87334943     </BIAS>
+ <RMSE>  0.884586751     </RMSE>
+ <CORR>  -5.28387681E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3346 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.82868552     </BIAS>
+ <RMSE>  0.885607362     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.01555514     </MEAN_OBS>
+ <STDV_OBS>   3.49050212     </STDV_OBS>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.94556904     </MEAN>
+ <STDV>   5.97641357E+29 </STDV>
+ <BIAS>   1.82294023     </BIAS>
+ <RMSE>  0.873396099     </RMSE>
+ <CORR>   1.27553827E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3351 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82970464     </BIAS>
+ <RMSE>  0.872865558     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.00222206     </MEAN_OBS>
+ <STDV_OBS>   4.31919718     </STDV_OBS>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.29860330     </MEAN>
+ <STDV>  -5.28387681E+13 </STDV>
+ <BIAS>   3.28438044     </BIAS>
+ <RMSE>  0.870510161     </RMSE>
+ <CORR>  -5.29751291E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3354 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.33847547     </BIAS>
+ <RMSE>  0.866780043     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.45333326     </MEAN_OBS>
+ <STDV_OBS>   3.56652021     </STDV_OBS>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.89053214     </MEAN>
+ <STDV>   1.27553827E-20 </STDV>
+ <BIAS>   1.07440960     </BIAS>
+ <RMSE>  0.952513635     </RMSE>
+ <CORR>   6.21570532E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3373 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.08727956     </BIAS>
+ <RMSE>  0.952021003     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.75333309     </MEAN_OBS>
+ <STDV_OBS>   3.70666790     </STDV_OBS>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.86403966     </MEAN>
+ <STDV>  -5.29751291E+13 </STDV>
+ <BIAS>   1.44249201     </BIAS>
+ <RMSE>  0.925510883     </RMSE>
+ <CORR>   6.10485589E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3377 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.50777459     </BIAS>
+ <RMSE>  0.919167280     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.13999987     </MEAN_OBS>
+ <STDV_OBS>   3.78328657     </STDV_OBS>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.88263655     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   2.76768947     </BIAS>
+ <RMSE>  0.839917719     </RMSE>
+ <CORR>   6.10527902E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3379 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.75071859     </BIAS>
+ <RMSE>  0.844458580     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74666667     </MEAN_OBS>
+ <STDV_OBS>   3.93172240     </STDV_OBS>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.97742760     </MEAN>
+ <STDV>  -5.35306562E+13 </STDV>
+ <BIAS>   2.85409451     </BIAS>
+ <RMSE>  0.916596055     </RMSE>
+ <CORR>   6.21577068E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.88245845     </BIAS>
+ <RMSE>  0.915393949     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.69333291     </MEAN_OBS>
+ <STDV_OBS>   3.31350708     </STDV_OBS>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.66921055     </MEAN>
+ <STDV>   6.21533547E+29 </STDV>
+ <BIAS>   2.22350883     </BIAS>
+ <RMSE>  0.839871466     </RMSE>
+ <CORR>  -5.83671921E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.28824592     </BIAS>
+ <RMSE>  0.828899026     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.44000006     </MEAN_OBS>
+ <STDV_OBS>   3.68073010     </STDV_OBS>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.76692402     </MEAN>
+ <STDV>  -5.28383612E+13 </STDV>
+ <BIAS>   1.78350163     </BIAS>
+ <RMSE>  0.868918717     </RMSE>
+ <CORR>   5.97675207E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.80456722     </BIAS>
+ <RMSE>  0.871515512     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45333314     </MEAN_OBS>
+ <STDV_OBS>   3.37861276     </STDV_OBS>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.80011332     </MEAN>
+ <STDV>  -5.83671921E+13 </STDV>
+ <BIAS>   2.55728221     </BIAS>
+ <RMSE>  0.804385841     </RMSE>
+ <CORR>   6.26323424E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3405 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.59742236     </BIAS>
+ <RMSE>  0.795946419     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.89113998     </MEAN_OBS>
+ <STDV_OBS>   11.2940197     </STDV_OBS>
+ <EXP>
+ <ID>        3409 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   6.21580076     </MEAN>
+ <STDV>   5.97675207E+29 </STDV>
+ <BIAS>   5.52655268     </BIAS>
+ <RMSE>  0.944097221     </RMSE>
+ <CORR>   1.32669132E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3409 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          79 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.67313242     </BIAS>
+ <RMSE>  0.940034747     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.92222309     </MEAN_OBS>
+ <STDV_OBS>   9.12286472     </STDV_OBS>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   5.91031170     </MEAN>
+ <STDV>   6.26323424E+29 </STDV>
+ <BIAS>   4.95632744     </BIAS>
+ <RMSE>  0.935549736     </RMSE>
+ <CORR>  -5.29751291E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3410 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.94515753     </BIAS>
+ <RMSE>  0.937740326     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.12222195     </MEAN_OBS>
+ <STDV_OBS>   3.24875855     </STDV_OBS>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.03767800     </MEAN>
+ <STDV>   1.32669132E-20 </STDV>
+ <BIAS>   2.46127033     </BIAS>
+ <RMSE>  0.759821951     </RMSE>
+ <CORR>   5.84778575E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3414 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2.19883347     </BIAS>
+ <RMSE>  0.799320102     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.36000001     </MEAN_OBS>
+ <STDV_OBS>   4.02364016     </STDV_OBS>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.87049043     </MEAN>
+ <STDV>   6.10529111E+29 </STDV>
+ <BIAS>   2.74221063     </BIAS>
+ <RMSE>  0.755342603     </RMSE>
+ <CORR>  -5.52048379E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3462 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.61104178     </BIAS>
+ <RMSE>  0.771950543     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.22666669     </MEAN_OBS>
+ <STDV_OBS>   3.31826544     </STDV_OBS>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.54581332     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   2.19837618     </BIAS>
+ <RMSE>  0.750033200     </RMSE>
+ <CORR>  -5.57519429E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.14174581     </BIAS>
+ <RMSE>  0.760952830     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29333341     </MEAN_OBS>
+ <STDV_OBS>   2.28332520     </STDV_OBS>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.21081293     </MEAN>
+ <STDV>  -5.52048379E+13 </STDV>
+ <BIAS>   1.61627066     </BIAS>
+ <RMSE>  0.789085805     </RMSE>
+ <CORR>   6.21533547E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.64201605     </BIAS>
+ <RMSE>  0.781102896     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.36666679     </MEAN_OBS>
+ <STDV_OBS>   2.43193722     </STDV_OBS>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.30942941     </MEAN>
+ <STDV>  -5.52050056E+13 </STDV>
+ <BIAS>   1.49954748     </BIAS>
+ <RMSE>  0.842921078     </RMSE>
+ <CORR>  -5.28383612E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.41693664     </BIAS>
+ <RMSE>  0.860607505     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74666667     </MEAN_OBS>
+ <STDV_OBS>   4.71114397     </STDV_OBS>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.68282914     </MEAN>
+ <STDV>   6.21533547E+29 </STDV>
+ <BIAS>   3.10084438     </BIAS>
+ <RMSE>  0.789504647     </RMSE>
+ <CORR>  -5.89099686E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3502 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.13571668     </BIAS>
+ <RMSE>  0.788153708     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.37411785     </MEAN_OBS>
+ <STDV_OBS>   5.14445066     </STDV_OBS>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   3.37765718     </MEAN>
+ <STDV>  -5.28383612E+13 </STDV>
+ <BIAS>   3.45104790     </BIAS>
+ <RMSE>  0.807001889     </RMSE>
+ <CORR>   6.21580657E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3503 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.44924283     </BIAS>
+ <RMSE>  0.807346284     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.77777815     </MEAN_OBS>
+ <STDV_OBS>   7.59191322     </STDV_OBS>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.86093283     </MEAN>
+ <STDV>  -5.89099686E+13 </STDV>
+ <BIAS>   6.02567387     </BIAS>
+ <RMSE>  0.816157162     </RMSE>
+ <CORR>   6.26323424E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3507 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.99464655     </BIAS>
+ <RMSE>  0.818900228     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.48666692     </MEAN_OBS>
+ <STDV_OBS>   4.65425062     </STDV_OBS>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.00670576     </MEAN>
+ <STDV>   6.21580657E+29 </STDV>
+ <BIAS>   4.06994534     </BIAS>
+ <RMSE>  0.770737708     </RMSE>
+ <CORR>   1.32669132E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3520 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.03450775     </BIAS>
+ <RMSE>  0.775598943     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.27111053     </MEAN_OBS>
+ <STDV_OBS>   4.07161951     </STDV_OBS>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.80235219     </MEAN>
+ <STDV>   6.26323424E+29 </STDV>
+ <BIAS>   3.32271934     </BIAS>
+ <RMSE>  0.860111952     </RMSE>
+ <CORR>   6.10527902E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3522 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.33610940     </BIAS>
+ <RMSE>  0.856969357     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.11555529     </MEAN_OBS>
+ <STDV_OBS>   4.19501114     </STDV_OBS>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.43213415     </MEAN>
+ <STDV>   1.32669132E-20 </STDV>
+ <BIAS>   2.30172849     </BIAS>
+ <RMSE>  0.836254537     </RMSE>
+ <CORR>   5.84778575E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3529 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2.24924445     </BIAS>
+ <RMSE>  0.843275726     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.39333320     </MEAN_OBS>
+ <STDV_OBS>   4.65268564     </STDV_OBS>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.65298152     </MEAN>
+ <STDV>   6.10527902E+29 </STDV>
+ <BIAS>   1.79403162     </BIAS>
+ <RMSE>  0.922597349     </RMSE>
+ <CORR>  -5.52048379E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3535 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82206070     </BIAS>
+ <RMSE>  0.921246767     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.90000010     </MEAN_OBS>
+ <STDV_OBS>   3.87166858     </STDV_OBS>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.99845314     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   1.95335376     </BIAS>
+ <RMSE>  0.866768956     </RMSE>
+ <CORR>  -5.52050056E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3544 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.94971645     </BIAS>
+ <RMSE>  0.862313688     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29111099     </MEAN_OBS>
+ <STDV_OBS>   4.45716476     </STDV_OBS>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.15776038     </MEAN>
+ <STDV>  -5.52048379E+13 </STDV>
+ <BIAS>   3.22602582     </BIAS>
+ <RMSE>  0.716216505     </RMSE>
+ <CORR>   6.21533547E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3560 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.21535540     </BIAS>
+ <RMSE>  0.715299904     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.740000069     </MEAN_OBS>
+ <STDV_OBS>   2.66226339     </STDV_OBS>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.38672638     </MEAN>
+ <STDV>  -5.52050056E+13 </STDV>
+ <BIAS>   1.67741764     </BIAS>
+ <RMSE>  0.767599285     </RMSE>
+ <CORR>  -5.28383612E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.78600991     </BIAS>
+ <RMSE>  0.753780901     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.44888878     </MEAN_OBS>
+ <STDV_OBS>   3.55081201     </STDV_OBS>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.13777781     </MEAN>
+ <STDV>   6.21577068E+29 </STDV>
+ <BIAS>   3.02840066     </BIAS>
+ <RMSE>  0.786702156     </RMSE>
+ <CORR>  -5.89099686E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3604 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.00703263     </BIAS>
+ <RMSE>  0.790007234     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.42666698     </MEAN_OBS>
+ <STDV_OBS>   4.44880676     </STDV_OBS>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.54262900     </MEAN>
+ <STDV>  -5.28383612E+13 </STDV>
+ <BIAS>   2.29386091     </BIAS>
+ <RMSE>  0.862043142     </RMSE>
+ <CORR>   6.21537136E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3605 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.64051938     </BIAS>
+ <RMSE>  0.823688924     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.30444455     </MEAN_OBS>
+ <STDV_OBS>   4.39656019     </STDV_OBS>
+ <EXP>
+ <ID>        3609 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.54249334     </MEAN>
+ <STDV>  -5.89099686E+13 </STDV>
+ <BIAS>   1.67107630     </BIAS>
+ <RMSE>  0.924948335     </RMSE>
+ <CORR>   6.26323424E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3609 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.61929786     </BIAS>
+ <RMSE>  0.928925872     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.53999972     </MEAN_OBS>
+ <STDV_OBS>   5.65916634     </STDV_OBS>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.50747013     </MEAN>
+ <STDV>   6.21537136E+29 </STDV>
+ <BIAS>   3.32382536     </BIAS>
+ <RMSE>  0.818726897     </RMSE>
+ <CORR>   1.32669132E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3647 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.23756027     </BIAS>
+ <RMSE>  0.825444162     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.16666675     </MEAN_OBS>
+ <STDV_OBS>   5.28463507     </STDV_OBS>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.05937171     </MEAN>
+ <STDV>   6.26323424E+29 </STDV>
+ <BIAS>   2.82440114     </BIAS>
+ <RMSE>  0.878189385     </RMSE>
+ <CORR>   6.10527902E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3649 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.77403522     </BIAS>
+ <RMSE>  0.882546186     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.81333351     </MEAN_OBS>
+ <STDV_OBS>   3.90902090     </STDV_OBS>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.36847067     </MEAN>
+ <STDV>  -5.83670579E+13 </STDV>
+ <BIAS>   1.75847900     </BIAS>
+ <RMSE>  0.893460035     </RMSE>
+ <CORR>   5.84778575E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3658 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.72179377     </BIAS>
+ <RMSE>  0.896878064     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.44444394     </MEAN_OBS>
+ <STDV_OBS>   4.32354450     </STDV_OBS>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.66446567     </MEAN>
+ <STDV>  -5.35307905E+13 </STDV>
+ <BIAS>   1.37871504     </BIAS>
+ <RMSE>  0.944779754     </RMSE>
+ <CORR>   1.32669325E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3660 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43143499     </BIAS>
+ <RMSE>  0.942966938     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.86666656     </MEAN_OBS>
+ <STDV_OBS>   3.19144869     </STDV_OBS>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.16735888     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   1.74767482     </BIAS>
+ <RMSE>  0.864841819     </RMSE>
+ <CORR>   6.10529111E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3672 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.82597232     </BIAS>
+ <RMSE>  0.852509558     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.82666659     </MEAN_OBS>
+ <STDV_OBS>   4.07807207     </STDV_OBS>
+ <EXP>
+ <ID>        3680 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.34686422     </MEAN>
+ <STDV>  -5.90486155E+13 </STDV>
+ <BIAS>   1.58021021     </BIAS>
+ <RMSE>  0.940594196     </RMSE>
+ <CORR>   6.21577068E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3680 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.58278048     </BIAS>
+ <RMSE>  0.937219679     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.03333330     </MEAN_OBS>
+ <STDV_OBS>   3.06454110     </STDV_OBS>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.53988504     </MEAN>
+ <STDV>  -5.29751291E+13 </STDV>
+ <BIAS>   1.45793521     </BIAS>
+ <RMSE>  0.894696295     </RMSE>
+ <CORR>   1.27553827E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48347652     </BIAS>
+ <RMSE>  0.894783676     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.44000006     </MEAN_OBS>
+ <STDV_OBS>   2.55663800     </STDV_OBS>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.32453918     </MEAN>
+ <STDV>   6.21577068E+29 </STDV>
+ <BIAS>   1.41858888     </BIAS>
+ <RMSE>  0.872218192     </RMSE>
+ <CORR>   6.10527902E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.38945150     </BIAS>
+ <RMSE>  0.877776206     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.41999984     </MEAN_OBS>
+ <STDV_OBS>   5.63462925     </STDV_OBS>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.93023205     </MEAN>
+ <STDV>   1.27553827E-20 </STDV>
+ <BIAS>   3.13177371     </BIAS>
+ <RMSE>  0.857745945     </RMSE>
+ <CORR>   5.97640148E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3707 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   3.10278320     </BIAS>
+ <RMSE>  0.859614015     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.65333366     </MEAN_OBS>
+ <STDV_OBS>   7.61616421     </STDV_OBS>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.90994167     </MEAN>
+ <STDV>   6.10527902E+29 </STDV>
+ <BIAS>   4.85035086     </BIAS>
+ <RMSE>  0.794321775     </RMSE>
+ <CORR>   6.26323424E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3710 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.33950806     </BIAS>
+ <RMSE>  0.820475101     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.49111104     </MEAN_OBS>
+ <STDV_OBS>   4.85645390     </STDV_OBS>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.54322100     </MEAN>
+ <STDV>   5.97640148E+29 </STDV>
+ <BIAS>   1.85122466     </BIAS>
+ <RMSE>  0.935425937     </RMSE>
+ <CORR>  -5.52048379E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3716 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.83098459     </BIAS>
+ <RMSE>  0.934006691     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.56000018     </MEAN_OBS>
+ <STDV_OBS>   5.21652985     </STDV_OBS>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.19403219     </MEAN>
+ <STDV>   6.26323424E+29 </STDV>
+ <BIAS>   3.00685143     </BIAS>
+ <RMSE>  0.836304605     </RMSE>
+ <CORR>  -5.52050056E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3740 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.80787086     </BIAS>
+ <RMSE>  0.856225669     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.76666665     </MEAN_OBS>
+ <STDV_OBS>   4.12748432     </STDV_OBS>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.04656982     </MEAN>
+ <STDV>  -5.52048379E+13 </STDV>
+ <BIAS>   1.72278631     </BIAS>
+ <RMSE>  0.912712097     </RMSE>
+ <CORR>   5.84778575E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3743 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.73876512     </BIAS>
+ <RMSE>  0.909849584     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.19333339     </MEAN_OBS>
+ <STDV_OBS>   4.15976858     </STDV_OBS>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.97547340     </MEAN>
+ <STDV>  -5.57519429E+13 </STDV>
+ <BIAS>   1.86999941     </BIAS>
+ <RMSE>  0.899564087     </RMSE>
+ <CORR>  -5.90486155E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3746 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.87095869     </BIAS>
+ <RMSE>  0.900199115     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.61379313     </MEAN_OBS>
+ <STDV_OBS>   4.48594522     </STDV_OBS>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   3.09731746     </MEAN>
+ <STDV>   6.21570532E+29 </STDV>
+ <BIAS>   2.40436530     </BIAS>
+ <RMSE>  0.943006277     </RMSE>
+ <CORR>  -5.35307905E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3749 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.37937856     </BIAS>
+ <RMSE>  0.943933010     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.04000020     </MEAN_OBS>
+ <STDV_OBS>   4.82979584     </STDV_OBS>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.86790395     </MEAN>
+ <STDV>   1.32669325E-20 </STDV>
+ <BIAS>   2.07443476     </BIAS>
+ <RMSE>  0.941185832     </RMSE>
+ <CORR>   5.84778575E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3761 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2.03202367     </BIAS>
+ <RMSE>  0.944448769     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.87333345     </MEAN_OBS>
+ <STDV_OBS>   4.01699972     </STDV_OBS>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.29491782     </MEAN>
+ <STDV>   6.10527902E+29 </STDV>
+ <BIAS>   2.44374251     </BIAS>
+ <RMSE>  0.906723857     </RMSE>
+ <CORR>  -5.28383612E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3768 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.41169524     </BIAS>
+ <RMSE>  0.912579715     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.45333290     </MEAN_OBS>
+ <STDV_OBS>   4.93713188     </STDV_OBS>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.70116377     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   2.20196104     </BIAS>
+ <RMSE>  0.951343834     </RMSE>
+ <CORR>  -5.52048714E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3769 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.18645835     </BIAS>
+ <RMSE>  0.949911058     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.69333315     </MEAN_OBS>
+ <STDV_OBS>   3.11485052     </STDV_OBS>
+ <EXP>
+ <ID>        3770 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.94309306     </MEAN>
+ <STDV>  -5.28383612E+13 </STDV>
+ <BIAS>   2.18251348     </BIAS>
+ <RMSE>  0.773939192     </RMSE>
+ <CORR>   5.97641357E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3770 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.91016400     </BIAS>
+ <RMSE>  0.820873201     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.78850543     </MEAN_OBS>
+ <STDV_OBS>   3.15337467     </STDV_OBS>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   2.07262063     </MEAN>
+ <STDV>  -5.52050056E+13 </STDV>
+ <BIAS>   1.83841944     </BIAS>
+ <RMSE>  0.831355631     </RMSE>
+ <CORR>   6.26331169E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3772 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.73894703     </BIAS>
+ <RMSE>  0.848963737     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.18666673     </MEAN_OBS>
+ <STDV_OBS>   4.76458549     </STDV_OBS>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.58115840     </MEAN>
+ <STDV>   5.97641357E+29 </STDV>
+ <BIAS>   2.10019946     </BIAS>
+ <RMSE>  0.931924939     </RMSE>
+ <CORR>  -5.83671921E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3781 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.95814168     </BIAS>
+ <RMSE>  0.942715168     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.75999999     </MEAN_OBS>
+ <STDV_OBS>   2.92476320     </STDV_OBS>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.44924450     </MEAN>
+ <STDV>   1.32669132E-20 </STDV>
+ <BIAS>   1.88275886     </BIAS>
+ <RMSE>  0.829722822     </RMSE>
+ <CORR>   6.21570532E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   1.96099734     </BIAS>
+ <RMSE>  0.814612627     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.75172460     </MEAN_OBS>
+ <STDV_OBS>   2.73445153     </STDV_OBS>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   1.87505889     </MEAN>
+ <STDV>  -5.29751291E+13 </STDV>
+ <BIAS>   2.15593791     </BIAS>
+ <RMSE>  0.693645418     </RMSE>
+ <CORR>  -5.52049721E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3803 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.06064653     </BIAS>
+ <RMSE>  0.712875783     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.36444473     </MEAN_OBS>
+ <STDV_OBS>   4.08856297     </STDV_OBS>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.81795144     </MEAN>
+ <STDV>   6.21570532E+29 </STDV>
+ <BIAS>   2.46984982     </BIAS>
+ <RMSE>  0.832299173     </RMSE>
+ <CORR>   6.10527902E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3808 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.38448739     </BIAS>
+ <RMSE>  0.843100429     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.49555540     </MEAN_OBS>
+ <STDV_OBS>   3.54496312     </STDV_OBS>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.43574476     </MEAN>
+ <STDV>  -5.56138328E+13 </STDV>
+ <BIAS>   2.27571917     </BIAS>
+ <RMSE>  0.762908459     </RMSE>
+ <CORR>   5.84778575E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3809 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.39152288     </BIAS>
+ <RMSE>  0.746517897     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.78222251     </MEAN_OBS>
+ <STDV_OBS>   5.22154570     </STDV_OBS>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.55729675     </MEAN>
+ <STDV>  -5.35306562E+13 </STDV>
+ <BIAS>   2.99326563     </BIAS>
+ <RMSE>  0.819703639     </RMSE>
+ <CORR>  -5.35307905E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3823 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.99135709     </BIAS>
+ <RMSE>  0.821380913     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.52222276     </MEAN_OBS>
+ <STDV_OBS>   3.83266163     </STDV_OBS>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.83291435     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   1.99787056     </BIAS>
+ <RMSE>  0.903090775     </RMSE>
+ <CORR>   5.79551747E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3827 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.84303629     </BIAS>
+ <RMSE>  0.921056747     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.03555536     </MEAN_OBS>
+ <STDV_OBS>   4.66008425     </STDV_OBS>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.31127191     </MEAN>
+ <STDV>  -5.35307905E+13 </STDV>
+ <BIAS>   2.24643898     </BIAS>
+ <RMSE>  0.870932877     </RMSE>
+ <CORR>   5.97641357E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3840 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.17300868     </BIAS>
+ <RMSE>  0.884056091     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.27111101     </MEAN_OBS>
+ <STDV_OBS>   2.99221802     </STDV_OBS>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.17173958     </MEAN>
+ <STDV>   5.79551747E+29 </STDV>
+ <BIAS>   5.70294237     </BIAS>
+ <RMSE>  0.386718363     </RMSE>
+ <CORR>   6.26331169E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3853 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.73844147     </BIAS>
+ <RMSE>  0.375620276     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29333341     </MEAN_OBS>
+ <STDV_OBS>   3.14758158     </STDV_OBS>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.23536968     </MEAN>
+ <STDV>  -5.29747306E+13 </STDV>
+ <BIAS>   1.80839849     </BIAS>
+ <RMSE>  0.816570580     </RMSE>
+ <CORR>   1.32669325E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3857 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.90888083     </BIAS>
+ <RMSE>  0.808125973     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.40000010     </MEAN_OBS>
+ <STDV_OBS>   4.46928215     </STDV_OBS>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.78538966     </MEAN>
+ <STDV>   6.26331169E+29 </STDV>
+ <BIAS>   1.47057414     </BIAS>
+ <RMSE>  0.942318320     </RMSE>
+ <CORR>   5.97640148E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3862 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55704904     </BIAS>
+ <RMSE>  0.938638687     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.09647059     </MEAN_OBS>
+ <STDV_OBS>   3.71226215     </STDV_OBS>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   2.05592179     </MEAN>
+ <STDV>   1.32669325E-20 </STDV>
+ <BIAS>   2.29574871     </BIAS>
+ <RMSE>  0.820660055     </RMSE>
+ <CORR>   6.21570532E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3866 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2.33207321     </BIAS>
+ <RMSE>  0.811713576     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.49333310     </MEAN_OBS>
+ <STDV_OBS>   3.96919703     </STDV_OBS>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.00759840     </MEAN>
+ <STDV>   5.97640148E+29 </STDV>
+ <BIAS>   1.92194784     </BIAS>
+ <RMSE>  0.901378214     </RMSE>
+ <CORR>  -5.56138328E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3872 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.13854790     </BIAS>
+ <RMSE>  0.874035180     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.11999965     </MEAN_OBS>
+ <STDV_OBS>   4.19172430     </STDV_OBS>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   2.13800311     </MEAN>
+ <STDV>   6.21570532E+29 </STDV>
+ <BIAS>   2.30416369     </BIAS>
+ <RMSE>  0.838314772     </RMSE>
+ <CORR>  -5.35306562E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3876 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          85 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.30611587     </BIAS>
+ <RMSE>  0.836734235     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.74666691     </MEAN_OBS>
+ <STDV_OBS>   4.06464958     </STDV_OBS>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.45728850     </MEAN>
+ <STDV>  -5.56138328E+13 </STDV>
+ <BIAS>   1.95020556     </BIAS>
+ <RMSE>  0.905751646     </RMSE>
+ <CORR>   5.70332932E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3882 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.74596965     </BIAS>
+ <RMSE>  0.926471055     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.78888941     </MEAN_OBS>
+ <STDV_OBS>   4.71768236     </STDV_OBS>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.33827233     </MEAN>
+ <STDV>  -5.35306562E+13 </STDV>
+ <BIAS>   3.36465859     </BIAS>
+ <RMSE>  0.740799367     </RMSE>
+ <CORR>  -5.35307905E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3894 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.37283468     </BIAS>
+ <RMSE>  0.732156038     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.80888891     </MEAN_OBS>
+ <STDV_OBS>   3.05097604     </STDV_OBS>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.79833400     </MEAN>
+ <STDV>   5.70332932E+29 </STDV>
+ <BIAS>   3.91968250     </BIAS>
+ <RMSE>  0.631215870     </RMSE>
+ <CORR>   5.79551747E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3895 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.89333463     </BIAS>
+ <RMSE>  0.637606323     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.66333342     </MEAN_OBS>
+ <STDV_OBS>   2.23273706     </STDV_OBS>
+ <EXP>
+ <ID>        3896 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   1.48887444     </MEAN>
+ <STDV>  -5.35307905E+13 </STDV>
+ <BIAS>   2.73067379     </BIAS>
+ <RMSE>  0.714516580     </RMSE>
+ <CORR>  -5.29747306E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3896 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          30 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.61847568     </BIAS>
+ <RMSE>  0.751257122     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.23777866     </MEAN_OBS>
+ <STDV_OBS>   5.64217710     </STDV_OBS>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.38765383     </MEAN>
+ <STDV>   1.27553827E-20 </STDV>
+ <BIAS>   2.65199351     </BIAS>
+ <RMSE>  0.907190025     </RMSE>
+ <CORR>   6.26331169E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3901 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2.62288451     </BIAS>
+ <RMSE>  0.909514427     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.62666702     </MEAN_OBS>
+ <STDV_OBS>   6.68031836     </STDV_OBS>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   5.32544518     </MEAN>
+ <STDV>  -5.29747306E+13 </STDV>
+ <BIAS>   3.35587239     </BIAS>
+ <RMSE>  0.865895569     </RMSE>
+ <CORR>   6.10528808E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3904 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.21994543     </BIAS>
+ <RMSE>  0.876942933     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.55111098     </MEAN_OBS>
+ <STDV_OBS>   4.91285658     </STDV_OBS>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.15798235     </MEAN>
+ <STDV>   6.26331169E+29 </STDV>
+ <BIAS>   2.15767002     </BIAS>
+ <RMSE>  0.897284806     </RMSE>
+ <CORR>   5.97640148E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3907 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.22562313     </BIAS>
+ <RMSE>  0.891457796     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.07333422     </MEAN_OBS>
+ <STDV_OBS>   7.19419909     </STDV_OBS>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   5.49506521     </MEAN>
+ <STDV>   6.10528808E+29 </STDV>
+ <BIAS>   2.58684278     </BIAS>
+ <RMSE>  0.937129974     </RMSE>
+ <CORR>   6.21570532E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3911 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.64242911     </BIAS>
+ <RMSE>  0.934497237     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.29555607     </MEAN_OBS>
+ <STDV_OBS>   5.13475657     </STDV_OBS>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.75497246     </MEAN>
+ <STDV>   5.97640148E+29 </STDV>
+ <BIAS>   2.58764362     </BIAS>
+ <RMSE>  0.888671398     </RMSE>
+ <CORR>  -5.56138328E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3915 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.64752650     </BIAS>
+ <RMSE>  0.883187771     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.36444521     </MEAN_OBS>
+ <STDV_OBS>   7.12426615     </STDV_OBS>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   5.36404943     </MEAN>
+ <STDV>   6.21570532E+29 </STDV>
+ <BIAS>   3.00800729     </BIAS>
+ <RMSE>  0.904502511     </RMSE>
+ <CORR>  -5.83670579E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3916 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.15155077     </BIAS>
+ <RMSE>  0.898681223     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.43777752     </MEAN_OBS>
+ <STDV_OBS>   4.86902380     </STDV_OBS>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.95000386     </MEAN>
+ <STDV>  -5.56138328E+13 </STDV>
+ <BIAS>   2.59755540     </BIAS>
+ <RMSE>  0.843596101     </RMSE>
+ <CORR>   5.70332932E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3917 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.61687064     </BIAS>
+ <RMSE>  0.842882693     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.70344830     </MEAN_OBS>
+ <STDV_OBS>   6.13443995     </STDV_OBS>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   5.05165339     </MEAN>
+ <STDV>  -5.83670579E+13 </STDV>
+ <BIAS>   2.95557022     </BIAS>
+ <RMSE>  0.872280657     </RMSE>
+ <CORR>  -5.35307905E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3923 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.99570227     </BIAS>
+ <RMSE>  0.872215509     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.23666644     </MEAN_OBS>
+ <STDV_OBS>   3.04815984     </STDV_OBS>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.14529347     </MEAN>
+ <STDV>   5.70332932E+29 </STDV>
+ <BIAS>   1.97352314     </BIAS>
+ <RMSE>  0.773381829     </RMSE>
+ <CORR>   1.27553827E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3951 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.96799743     </BIAS>
+ <RMSE>  0.774437129     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.45666695     </MEAN_OBS>
+ <STDV_OBS>   4.17137957     </STDV_OBS>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.76183176     </MEAN>
+ <STDV>  -5.35307905E+13 </STDV>
+ <BIAS>   2.27299523     </BIAS>
+ <RMSE>  0.835292399     </RMSE>
+ <CORR>  -5.29747306E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3952 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.27398038     </BIAS>
+ <RMSE>  0.836545765     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.37888861     </MEAN_OBS>
+ <STDV_OBS>   4.46737814     </STDV_OBS>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.86973214     </MEAN>
+ <STDV>   1.27553827E-20 </STDV>
+ <BIAS>   3.15727353     </BIAS>
+ <RMSE>  0.816736877     </RMSE>
+ <CORR>   6.26331169E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3953 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   3.16419172     </BIAS>
+ <RMSE>  0.815809727     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.72666693     </MEAN_OBS>
+ <STDV_OBS>   4.94321585     </STDV_OBS>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.19707203     </MEAN>
+ <STDV>  -5.29747306E+13 </STDV>
+ <BIAS>   2.74801087     </BIAS>
+ <RMSE>  0.851642787     </RMSE>
+ <CORR>  -5.83671921E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3955 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   7.29656110E-42 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.72495127     </BIAS>
+ <RMSE>  0.854342520     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.66666698     </MEAN_OBS>
+ <STDV_OBS>   4.18412495     </STDV_OBS>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.58508873     </MEAN>
+ <STDV>   5.84778575E+29 </STDV>
+ <BIAS>   1.92307699     </BIAS>
+ <RMSE>  0.893490314     </RMSE>
+ <CORR>  -5.52058109E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3956 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.92800236     </BIAS>
+ <RMSE>  0.893329322     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.31444407     </MEAN_OBS>
+ <STDV_OBS>   4.51046896     </STDV_OBS>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.05840564     </MEAN>
+ <STDV>   1.32669132E-20 </STDV>
+ <BIAS>   3.03020763     </BIAS>
+ <RMSE>  0.815896392     </RMSE>
+ <CORR>  -5.28372371E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3961 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   3.01443386     </BIAS>
+ <RMSE>  0.817720830     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.78390813     </MEAN_OBS>
+ <STDV_OBS>   3.66346908     </STDV_OBS>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   2.61009336     </MEAN>
+ <STDV>  -5.57519429E+13 </STDV>
+ <BIAS>   4.17924356     </BIAS>
+ <RMSE>  0.695131004     </RMSE>
+ <CORR>   5.88966256E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3962 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          87 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.19772816     </BIAS>
+ <RMSE>  0.691854298     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.60333395     </MEAN_OBS>
+ <STDV_OBS>   5.38705158     </STDV_OBS>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.05892467     </MEAN>
+ <STDV>   5.70332629E+29 </STDV>
+ <BIAS>   3.74746966     </BIAS>
+ <RMSE>  0.715875149     </RMSE>
+ <CORR>   5.97675207E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3963 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.75135660     </BIAS>
+ <RMSE>  0.714532733     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.24777770     </MEAN_OBS>
+ <STDV_OBS>   4.02507448     </STDV_OBS>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.23144507     </MEAN>
+ <STDV>   1.27553835E-20 </STDV>
+ <BIAS>   3.51068687     </BIAS>
+ <RMSE>  0.768351674     </RMSE>
+ <CORR>  -5.56136986E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3966 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   7.29656110E-42 </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   3.56564641     </BIAS>
+ <RMSE>  0.758744180     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.63555527     </MEAN_OBS>
+ <STDV_OBS>   4.48758459     </STDV_OBS>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.87150455     </MEAN>
+ <STDV>   6.26363810E+29 </STDV>
+ <BIAS>   2.69985080     </BIAS>
+ <RMSE>  0.893478692     </RMSE>
+ <CORR>   6.21537098E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3967 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.77317882     </BIAS>
+ <RMSE>  0.888085902     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.12222219     </MEAN_OBS>
+ <STDV_OBS>   3.57964182     </STDV_OBS>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.13737655     </MEAN>
+ <STDV>  -5.57521777E+13 </STDV>
+ <BIAS>   2.21617603     </BIAS>
+ <RMSE>  0.847551882     </RMSE>
+ <CORR>   5.97675207E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3969 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.18624115     </BIAS>
+ <RMSE>  0.851970434     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.80999994     </MEAN_OBS>
+ <STDV_OBS>   5.34694195     </STDV_OBS>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.96702576     </MEAN>
+ <STDV>   6.26146203E+29 </STDV>
+ <BIAS>   3.21734905     </BIAS>
+ <RMSE>  0.890218079     </RMSE>
+ <CORR>  -5.28372371E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3970 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.21497035     </BIAS>
+ <RMSE>  0.890297830     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.02111053     </MEAN_OBS>
+ <STDV_OBS>   5.21917248     </STDV_OBS>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.38403916     </MEAN>
+ <STDV>   5.97675207E+29 </STDV>
+ <BIAS>   3.17470980     </BIAS>
+ <RMSE>  0.794612527     </RMSE>
+ <CORR>   5.97640148E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3971 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.19039845     </BIAS>
+ <RMSE>  0.791258633     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.66889000     </MEAN_OBS>
+ <STDV_OBS>   7.40937519     </STDV_OBS>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   4.57367373     </MEAN>
+ <STDV>  -5.28372371E+13 </STDV>
+ <BIAS>   3.62348127     </BIAS>
+ <RMSE>  0.912646532     </RMSE>
+ <CORR>  -5.89099686E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3973 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   3.65523291     </BIAS>
+ <RMSE>  0.910802960     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.98888922     </MEAN_OBS>
+ <STDV_OBS>   3.87511468     </STDV_OBS>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   2.84032130     </MEAN>
+ <STDV>  -5.35303920E+13 </STDV>
+ <BIAS>   2.77895737     </BIAS>
+ <RMSE>  0.810100436     </RMSE>
+ <CORR>   5.84779746E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3976 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   1.40129846E-45 </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.77639842     </BIAS>
+ <RMSE>  0.810484171     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.42555618     </MEAN_OBS>
+ <STDV_OBS>   5.61616802     </STDV_OBS>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.47613263     </MEAN>
+ <STDV>  -5.89099686E+13 </STDV>
+ <BIAS>   2.32758999     </BIAS>
+ <RMSE>  0.911253154     </RMSE>
+ <CORR>   5.97641357E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3978 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.30587626     </BIAS>
+ <RMSE>  0.911937356     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.18777776     </MEAN_OBS>
+ <STDV_OBS>   5.19183588     </STDV_OBS>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.61502218     </MEAN>
+ <STDV>   5.84779746E+29 </STDV>
+ <BIAS>   2.71820736     </BIAS>
+ <RMSE>  0.849245310     </RMSE>
+ <CORR>   1.27553819E-20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3979 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.75457215     </BIAS>
+ <RMSE>  0.846912622     </RMSE>
+ <CORR>   1.40129846E-45 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.88777804     </MEAN_OBS>
+ <STDV_OBS>   5.00370407     </STDV_OBS>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>DEF</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   3.54574633     </MEAN>
+ <STDV>   5.97641357E+29 </STDV>
+ <BIAS>   2.71386814     </BIAS>
+ <RMSE>  0.845651269     </RMSE>
+ <CORR>   6.26363810E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3980 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>          90 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.77665281     </BIAS>
+ <RMSE>  0.840469360     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.36666632     </MEAN_OBS>
+ <STDV_OBS>   4.60891151     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>DEF</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>   2.85590267     </MEAN>
+ <STDV>   1.27553819E-20 </STDV>
+ <BIAS>   2.46558166     </BIAS>
+ <RMSE>  0.890877366     </RMSE>
+ <CORR>  -5.57521777E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   1.40129846E-45 </STDV>
+ <BIAS>   2.50100017     </BIAS>
+ <RMSE>  0.887049437     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.84137893     </MEAN_OBS>
+ <STDV_OBS>   3.35110807     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>DEF</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   2.19215202     </MEAN>
+ <STDV>   6.21580657E+29 </STDV>
+ <BIAS>   1.86519504     </BIAS>
+ <RMSE>  0.828594685     </RMSE>
+ <CORR>   6.10436023E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.92229044     </BIAS>
+ <RMSE>  0.821069777     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.39862061     </MEAN_OBS>
+ <STDV_OBS>   2.40721107     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>DEF</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   1.19542718     </MEAN>
+ <STDV>  -5.35307863E+13 </STDV>
+ <BIAS>   1.49220455     </BIAS>
+ <RMSE>  0.787532151     </RMSE>
+ <CORR>  -5.29757498E+13 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>         145 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48489356     </BIAS>
+ <RMSE>  0.785825491     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.50666654     </MEAN_OBS>
+ <STDV_OBS>   2.35139894     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>DEF</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>   1.08400166     </MEAN>
+ <STDV>  -5.29751291E+13 </STDV>
+ <BIAS>   2.58677220     </BIAS>
+ <RMSE>  0.369523793     </RMSE>
+ <CORR>   6.26146203E+29 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>CDCN_mod</NAME>
+ <NUM>         150 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.60334492     </BIAS>
+ <RMSE>  0.372074246     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
